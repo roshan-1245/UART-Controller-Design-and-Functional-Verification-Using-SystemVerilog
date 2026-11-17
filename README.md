@@ -438,23 +438,7 @@ Overall, this project provides practical experience in RTL development, digital 
 
 [The following technical resources provide background for UART communication, RTL development, and FPGA implementation.
 ](https://www.udemy.com/course/communication-series-p1-uart-spi-and-i2c-in-verilog/learn/practice/1513152#overview)
-### 14.1 Technical Standards
 
-1. IEEE Standard 1800 – SystemVerilog Language Reference.
-
-### 14.2 FPGA Development Documentation
-
-2. AMD Xilinx – Vivado Design Suite Documentation.
-
-   https://docs.amd.com/
-
-### 14.3 Research Papers
-
-Research papers related to UART architecture, FPGA-based serial communication, RTL implementation, and verification methodologies can be included in the `References/Research_Papers/` directory.
-
-### 14.4 Datasheets and Technical Documentation
-
-Relevant FPGA datasheets, device documentation, and UART technical references can be maintained in the corresponding reference directories.
 
 ---
 
